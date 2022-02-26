@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Inquire</string>
+    <string name="splashtext">Inquire</string>
 </resources>
